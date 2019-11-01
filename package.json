@@ -16,7 +16,7 @@
     "mocha": "^3.2.0",
     "zombie": "^5.0.5",
     "helmet": "^3.18.0",
-    "mongoose": "5.5.11",
+    "mongoose": "5.7.7",
     "node-fetch": "2.6.0",
     "ip": "^1.1.5"
   },
